@@ -1,0 +1,6 @@
+@mission10API_fairbanks_HostAddress = http://localhost:5289
+
+GET {{mission10API_fairbanks_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
